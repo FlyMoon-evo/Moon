@@ -23,17 +23,17 @@
     ],
     "homepage": "https://github.com/FlyMoon-evo",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-personal/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/FlyMoon-evo/Moon/issues",
+        "email": "chenan.oc@qq.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "FlyMoon",
     "contributors": [
-        "David Miller (https://davidmiller.io/)"
+        "David Miller (https://flymoon-evo.github.io/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-personal.git"
+        "url": "https://github.com/FlyMoon-evo/Moon.git"
     },
     "dependencies": {
         "bootstrap": "5.2.3"
