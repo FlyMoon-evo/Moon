@@ -1,6 +1,6 @@
 {
-    "title": "Personal",
-    "name": "startbootstrap-personal",
+    "title": "FlyMoon",
+    "name": "FlyMoon-Personal",
     "version": "1.0.1",
     "scripts": {
         "build": "npm run clean && npm run build:pug && npm run build:scss && npm run build:scripts && npm run build:assets",
@@ -21,7 +21,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/personal",
+    "homepage": "https://github.com/FlyMoon-evo",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-personal/issues",
         "email": "feedback@startbootstrap.com"
