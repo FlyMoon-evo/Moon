@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A personal website template built with Bootstrap",
+    "description": "使用Bootstrap构建的",
     "keywords": [
         "css",
         "sass",
